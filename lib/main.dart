@@ -23,12 +23,8 @@ class MyApp extends StatelessWidget {
         theme: lightTheme(context),
         home: const AnnotatedRegion<SystemUiOverlayStyle>(
             value: SystemUiOverlayStyle(
-              statusBarColor: Colors.transparent, // transparent status bar
-// navigation bar color
-              statusBarIconBrightness:
-                  Brightness.dark, // status bar icons' color
-              // systemNavigationBarIconBrightness:
-              //     Brightness.dark, //navigation bar icons' color
+              statusBarColor: Colors.transparent,
+              statusBarIconBrightness: Brightness.dark,
             ),
             child: HomeScreen()));
   }
