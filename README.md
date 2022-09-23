@@ -1,16 +1,17 @@
-# promina_task
+<!-- vertical space &nbsp; -->
 
-A new Flutter project.
+# Task App responsive UI - promina task
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![image1](https://drive.google.com/file/d/1lKz018GCyVS7IVVIdChV5ZmkRpiC9OT8/view?usp=sharing)
 
-A few resources to get you started if this is your first Flutter project:
+![image2](https://drive.google.com/file/d/1lJtGJh8E9BMY-ap7D6-rWBVjN47fmsDC/view?usp=sharing)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
+
+
+
